@@ -1,0 +1,15 @@
+C:\Users\mlond\source\repos\CheckTwo\bin\Debug\net6.0\CheckTwo.exe
+C:\Users\mlond\source\repos\CheckTwo\bin\Debug\net6.0\CheckTwo.deps.json
+C:\Users\mlond\source\repos\CheckTwo\bin\Debug\net6.0\CheckTwo.runtimeconfig.json
+C:\Users\mlond\source\repos\CheckTwo\bin\Debug\net6.0\CheckTwo.dll
+C:\Users\mlond\source\repos\CheckTwo\bin\Debug\net6.0\CheckTwo.pdb
+C:\Users\mlond\source\repos\CheckTwo\obj\Debug\net6.0\CheckTwo.csproj.AssemblyReference.cache
+C:\Users\mlond\source\repos\CheckTwo\obj\Debug\net6.0\CheckTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlond\source\repos\CheckTwo\obj\Debug\net6.0\CheckTwo.AssemblyInfoInputs.cache
+C:\Users\mlond\source\repos\CheckTwo\obj\Debug\net6.0\CheckTwo.AssemblyInfo.cs
+C:\Users\mlond\source\repos\CheckTwo\obj\Debug\net6.0\CheckTwo.csproj.CoreCompileInputs.cache
+C:\Users\mlond\source\repos\CheckTwo\obj\Debug\net6.0\CheckTwo.dll
+C:\Users\mlond\source\repos\CheckTwo\obj\Debug\net6.0\refint\CheckTwo.dll
+C:\Users\mlond\source\repos\CheckTwo\obj\Debug\net6.0\CheckTwo.pdb
+C:\Users\mlond\source\repos\CheckTwo\obj\Debug\net6.0\CheckTwo.genruntimeconfig.cache
+C:\Users\mlond\source\repos\CheckTwo\obj\Debug\net6.0\ref\CheckTwo.dll
